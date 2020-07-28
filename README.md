@@ -27,9 +27,9 @@
   <hr>
   <h3> <a href="hobbies.html">Hobies</a></h3>
 
-  <h3> <a href="Socials.html">Socials</a> </h3>
+  <h3> <a href="https://www.instagram.com/abhay_adh/">instagram</a> </h3>
 
-  <h3> <a href="Contacts.html">Contacts</a> </h3>
+  <h3> <a href="Contacts.html">Contact Me</a> </h3>
   <hr>
   <h3>Skill</h3>
   <table cellspacing="10">
