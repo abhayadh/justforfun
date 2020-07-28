@@ -1,5 +1,4 @@
 <html lang="]" dir="ltr">
-
 <head>
   <meta charset="utf-8">
   <title>Abhay Adhikari</title>
