@@ -13,7 +13,7 @@
         <h1>Abhay Adhiakri</h1></td>
       <td>
         <p><em>I am <strong>Abhay Adhikari.</strong></em></p>
-        <p>I am random guy on internet. I am trying sonething new right now.</p></td>
+        <p>I am random guy on internet. I am trying something new right now.</p></td>
     </tr>
   </table>
 
